@@ -1,0 +1,13 @@
+{
+  "name": "electron-icloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Keyvan Fatehi <keyvanfatehi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "dependencies": {
+    "electron": "^1.6.8"
+  }
+}
